@@ -1,0 +1,21 @@
+h1{
+    color: darkred;
+    background-color: floralwhite;
+    background-size: cover ;
+    border-radius: 20px;
+    border-width: 49px;
+}
+
+body{
+    background-color: rgb(8, 7, 7);
+    background-image: url(https://wallpapercave.com/wp/wp2588481.jpg);
+    background-size: 1500px;
+
+
+
+}
+img{
+     color: crimson;
+     border: 2px solid;
+     border-radius: 20px;
+}
